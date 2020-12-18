@@ -20,7 +20,7 @@ variable "ec2_keypair" {
 
 variable "ec2_count" {
   type = number
-  default = "6"
+  default = "3"
 }
 
 variable "environment" {
